@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "PLZ",
+  "base_artist": "z²",
+  "createdAt": "2026-04-03T14:55:46.393008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Plz Don't Go",
+      "artist": "Cashmere Cat feat. Jhené Aiko",
+      "has_synced": true,
+      "path": "select/01_Plz_Don't_Go_Cashmere_Cat_feat._Jhené_Aiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plz Don't Go (feat. Jhené Aiko)",
+      "artist": "Cashmere Cat",
+      "has_synced": true,
+      "path": "select/02_Plz_Don't_Go_(feat._Jhené_Aiko)_Cashmere_Cat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "be perfect, plz!",
+      "artist": "安月名莉子",
+      "has_synced": true,
+      "path": "select/03_be_perfect,_plz!_安月名莉子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost (PLZ Tethered version)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_Lost_(PLZ_Tethered_version)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "plz don't waste my youth",
+      "artist": "Au/Ra",
+      "has_synced": true,
+      "path": "select/05_plz_don't_waste_my_youth_Au_Ra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lost  (PLZ Tethered Version)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/06_Lost_(PLZ_Tethered_Version)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lost (PLZ Tethered version)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_Lost_(PLZ_Tethered_version)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "plz don’t cut my wings - feat. Earl Sweatshirt",
+      "artist": "MIKE feat. Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/08_plz_don’t_cut_my_wings_-_feat._Earl_Sweatshirt_MIKE_feat._Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Plz Don’t Cut My Wings",
+      "artist": "MIKE feat. Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/09_Plz_Don’t_Cut_My_Wings_MIKE_feat._Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "얼굴 찌푸리지 말아요 Plz Don't Be Sad",
+      "artist": "Highlight",
+      "has_synced": true,
+      "path": "select/10_얼굴_찌푸리지_말아요_Plz_Don't_Be_Sad_Highlight.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Plz Don’t Cut My Wings",
+      "artist": "MIKE",
+      "has_synced": true,
+      "path": "select/11_Plz_Don’t_Cut_My_Wings_MIKE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "plz",
+      "artist": "Sik-K",
+      "has_synced": true,
+      "path": "select/12_plz_Sik-K.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Plz don't come around interlude",
+      "artist": "The Driver Era",
+      "has_synced": true,
+      "path": "select/13_Plz_don't_come_around_interlude_The_Driver_Era.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "OMG Plz Don't Come Around",
+      "artist": "The Driver Era",
+      "has_synced": true,
+      "path": "select/14_OMG_Plz_Don't_Come_Around_The_Driver_Era.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "OMG Plz Don’t Come Around",
+      "artist": "THE DRIVER ERA",
+      "has_synced": true,
+      "path": "select/15_OMG_Plz_Don’t_Come_Around_THE_DRIVER_ERA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PLZ",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_PLZ_z2.txt"
+    }
+  ]
+}
