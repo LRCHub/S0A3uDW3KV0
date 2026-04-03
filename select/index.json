@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "PLZ",
   "base_artist": "z²",
-  "createdAt": "2026-04-03T14:55:46.393008Z",
+  "createdAt": "2026-04-03T15:04:36.130454Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "z²",
       "has_synced": false,
       "path": "select/pl_01_PLZ_z2.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "PLZ",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/localdb_01_PLZ_z2.txt",
+      "repo_name": "S0A3uDW3KV0"
     }
   ]
 }
